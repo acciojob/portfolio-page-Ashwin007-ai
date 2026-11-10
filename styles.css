@@ -1,2 +1,41 @@
 
 /* Your CSS Code here. */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    color: #2563eb;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    max-width: 700px;
+}
+
+li {
+    margin: 10px 0;
+}
